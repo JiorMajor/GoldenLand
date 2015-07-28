@@ -15,12 +15,15 @@ Users can recommend/review their opinions with others. Also can contribute photo
 
 
 #Remark
-This application need back-end server called <a href="https://github.com/htet-waiyan/locus"><code>locus</code></a> which is based on 
+This application need back-end server called <a href="https://github.com/htet-waiyan/locus"><code>locus</code></a>(developed by <a href="https://github.com/htet-waiyan">Htet Waiyan</a>) which is based on 
 <ul>
 <li>Nodejs/Expressjs</li>
 <li>MongoDB</li>
 </ul>
+<b>Still in development version.</b>
+<br>
+Future updates may occur a lots.
 
-developed by <a href="https://github.com/htet-waiyan">Htet Waiyan</a>
+
 
  
