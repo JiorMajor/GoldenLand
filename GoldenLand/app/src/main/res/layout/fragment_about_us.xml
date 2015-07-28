@@ -1,0 +1,49 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.svbtle.johnmajor.goldenland.AboutUsFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="About Golden Land"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal|top"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="20dp"/>
+    <TextView
+        android:id="@+id/bodytext"
+        android:text="            Golden Land is an tourism application for visitors to give information about Myanmar Famous Places."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+        android:id="@+id/bodytext2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Developed by"
+        android:gravity="center_horizontal" />
+
+    <TextView
+        android:id="@+id/name1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chan Pyae Aung - A0135526H"
+        android:gravity="center_horizontal" />
+
+    <TextView
+        android:id="@+id/name2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Paing Hmu Ko    - A0136016R"
+        android:gravity="center_horizontal" />
+
+</LinearLayout>
